@@ -4,3 +4,7 @@ h1{
 h2{
     font-family: "Calligraffiti", sans-serif;
 }
+*{
+    align-items: center;
+    text-align: center;
+}
